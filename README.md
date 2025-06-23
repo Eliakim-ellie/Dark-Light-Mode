@@ -9,7 +9,6 @@ This is a simple web project that allows users to toggle between **Dark Mode** a
 - Saves user preference using localStorage
 - Responsive and accessible
 - Minimal, clean UI design
-
 ---
 ## 🛠️ Technologies Used
 
