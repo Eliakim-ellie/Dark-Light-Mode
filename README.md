@@ -2,9 +2,7 @@
 
 This is a simple web project that allows users to toggle between **Dark Mode** and **Light Mode** using a switch or button. Built using plain HTML, CSS, and JavaScript
 ---
-
 ## 🎯 Features
-
 - One-click toggle between dark and light themes
 - Saves user preference using localStorage
 - Responsive and accessible
