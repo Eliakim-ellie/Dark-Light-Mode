@@ -13,7 +13,6 @@ This is a simple web project that allows users to toggle between **Dark Mode** a
 - JavaScript (DOM manipulation + localStorage)
 ---
 ## 🧑‍💻 How It Works
-
 - A button or switch triggers a `toggleMode()` function.
 - CSS classes like `.dark-mode` or `.light-mode` are added/removed from the `<body>`.
 - The choice is saved in `localStorage` so the theme persists across sessions.
