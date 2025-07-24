@@ -1,4 +1,4 @@
-# 🌓 Dark & Light Mode Toggl
+🌓 Dark & Light Mode Toggl
 This is a simple web project that allows users to toggle between **Dark Mode** and **Light Mode** using a switch or button. Built using plain HTML, CSS, and JavaScript
 ---
 ## 🎯 Features
