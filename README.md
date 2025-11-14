@@ -16,4 +16,4 @@ This is a simple web project that allows users to toggle between **Dark Mode** a
 - The choice is saved in `localStorage` so the theme persists across sessions.
 for real thought
 
-📂 Folder 
+📂 Folder structure
